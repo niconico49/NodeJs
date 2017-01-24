@@ -1,0 +1,2 @@
+Z:\18 - DEV - Sviluppo\NicoManneschi\NodeJs\EasySendMail\EasySendMail\bin\Microsoft.NodejsTools.WebRole.dll
+Z:\18 - DEV - Sviluppo\NicoManneschi\NodeJs\EasySendMail\EasySendMail\obj\Debug\EasySendMail.njsprojResolveAssemblyReference.cache
